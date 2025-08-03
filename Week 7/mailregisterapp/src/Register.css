@@ -1,0 +1,20 @@
+
+
+.form-wrapper {
+  margin: 40px;
+}
+
+h1 {
+  color: red;
+}
+
+label {
+  display: inline-block;
+  width: 80px;
+  margin-top: 10px;
+}
+
+input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

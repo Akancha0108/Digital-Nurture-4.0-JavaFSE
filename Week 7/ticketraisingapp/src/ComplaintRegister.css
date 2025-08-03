@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: red;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input, textarea {
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
